@@ -9,6 +9,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Array/Q914-Easy-XOfAKind" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q941-Easy-Valid Mountain Array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q167-Easy-TwoSum2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q027-Easy-removeElement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q080-Medium-RemoveDuplicatesfromSortedArrayII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q189-Easy-RotateArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q134-Medium-GasStation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q274-Medium-HIndex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q275-Medium-hIndex" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
