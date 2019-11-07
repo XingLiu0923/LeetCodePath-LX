@@ -15,6 +15,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Array/Q134-Medium-GasStation" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q274-Medium-HIndex" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q275-Medium-hIndex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q217-Easy-ContainsDupicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataStructure/HashTable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q055-Medium-JumpGame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q045-Hard-JumpGame2" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

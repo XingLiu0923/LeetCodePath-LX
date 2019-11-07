@@ -2,45 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce7a3dbc-7e5f-4a8c-ba44-34d892c2cb2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/Q027-Easy-removeElement/Q027-Easy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q027-Easy-removeElement/Q027_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q080-Medium-RemoveDuplicatesfromSortedArrayII/Q080-Medium" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q080-Medium-RemoveDuplicatesfromSortedArrayII/Q080_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q134-Medium-GasStation/Q134-Medium" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q134-Medium-GasStation/Q134_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q134-Medium-GasStation/Q134_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q167-Easy-TwoSum2/Q167_review_191104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q189-Easy-RotateArray/Q189-Easy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q189-Easy-RotateArray/Q189_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q189-Easy-RotateArray/Q189_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q189-Easy-RotateArray/Q189_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q273_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q274-Medium" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q274_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q274_test1_improve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q274_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySerchPrac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q045-Hard-JumpGame2/Q045-Hard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q045-Hard-JumpGame2/Q045_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q055-Medium-JumpGame/Q055-Medium" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q055-Medium-JumpGame/Q055_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q055-Medium-JumpGame/Q055_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q217-Easy-ContainsDupicate/Q217-Easy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q217-Easy-ContainsDupicate/Q217_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/HashTable/BitMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/HashTable/Dictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/HashTable/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/HashTable/hashCode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q275-Medium-hIndex/Q275_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q275-Medium-hIndex/Q275_test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/MainClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort_Improve$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort_Improve$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort_Improve.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort_Improve.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q167_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q167_test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1_TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1_TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q26_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q26_test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q310_MinimumHeightTrees$Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q310_MinimumHeightTrees$Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q310_MinimumHeightTrees.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q310_MinimumHeightTrees.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q50_Power.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q50_Power.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q914_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q914_test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q914_test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q914_test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q941_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q941_test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q941_test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q941_test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -82,6 +58,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -98,37 +77,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q274_test2">
-    <configuration name="Q134_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q134_test1" />
+  <component name="RunManager" selected="Application.Q045_test1">
+    <configuration name="BitMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BitMap" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q189_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q189_test2" />
+    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTable" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q189_test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q189_test3" />
+    <configuration name="Q045_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q045_test1" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q274_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q274_test1" />
+    <configuration name="Q055_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q055_test1" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q274_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q274_test2" />
+    <configuration name="Q217_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q217_test2" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q274_test2" />
-        <item itemvalue="Application.Q274_test1" />
-        <item itemvalue="Application.Q134_test1" />
-        <item itemvalue="Application.Q189_test3" />
-        <item itemvalue="Application.Q189_test2" />
+        <item itemvalue="Application.Q045_test1" />
+        <item itemvalue="Application.Q055_test1" />
+        <item itemvalue="Application.Q217_test2" />
+        <item itemvalue="Application.BitMap" />
+        <item itemvalue="Application.HashTable" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +146,9 @@
       <workItem from="1572837429969" duration="28000" />
       <workItem from="1572837560086" duration="2793000" />
       <workItem from="1572862516933" duration="18432000" />
-      <workItem from="1572921824431" duration="26641000" />
+      <workItem from="1572921824431" duration="51650000" />
+      <workItem from="1573091758431" duration="3702000" />
+      <workItem from="1573112855900" duration="404000" />
     </task>
     <servers />
   </component>
