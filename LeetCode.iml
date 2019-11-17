@@ -19,6 +19,7 @@
       <sourceFolder url="file://$MODULE_DIR$/DataStructure/HashTable" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q055-Medium-JumpGame" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q045-Hard-JumpGame2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q219_Easy_ContainsDuplicateII" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
