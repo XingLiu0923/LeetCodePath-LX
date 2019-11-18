@@ -2,7 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce7a3dbc-7e5f-4a8c-ba44-34d892c2cb2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Array/*Q220_Medium_ContainsDuplicateIII/Q220-Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/*Q220_Medium_ContainsDuplicateIII/Q220_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q121_Easy_BestTimetoBuyandSellStock/Q121_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q121_Easy_BestTimetoBuyandSellStock/Q121_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q121_Easy_BestTimetoBuyandSellStock/Q121_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q121_Easy_BestTimetoBuyandSellStock/Q121_test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q122_Easy_BestTimetoBuyandSellStockII/Q122_Easy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q122_Easy_BestTimetoBuyandSellStockII/Q122_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q122_Easy_BestTimetoBuyandSellStockII/Q122_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q122_Easy_BestTimetoBuyandSellStockII/Q122_test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q123_Hard_BestTimetoBuyandSellStockIII/Q123_Hard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q123_Hard_BestTimetoBuyandSellStockIII/Q123_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q188_Hard_BestTimetoBuyandSellStockIV/Q188_Hard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q188_Hard_BestTimetoBuyandSellStockIV/Q188_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q219_Easy_ContainsDuplicateII/Q219-Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q309_Medium_BestTimetoBuyandSellStockwithCooldown/Q309_Medium" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q309_Medium_BestTimetoBuyandSellStockwithCooldown/Q309_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q714_Medium_BestTimetoBuyandSellStockwithTransactionFee/Q714_Medium" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q714_Medium_BestTimetoBuyandSellStockwithTransactionFee/Q714_test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q026-Easy-RemoveDuplicate/Q26_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q026_Easy_RemoveDuplicate/Q26_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q045-Hard-JumpGame2/Q045-Hard" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q045-Hard-JumpGame2/Q045-Hard.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q080-Medium-RemoveDuplicatesfromSortedArrayII/Q080-Medium" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q080_Medium_RemoveDuplicatesfromSortedArrayII/Q080-Medium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q080-Medium-RemoveDuplicatesfromSortedArrayII/Q080_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q080_Medium_RemoveDuplicatesfromSortedArrayII/Q080_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q134-Medium-GasStation/Q134-Medium" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q134_Medium_GasStation/Q134-Medium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q134-Medium-GasStation/Q134_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q134_Medium_GasStation/Q134_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q134-Medium-GasStation/Q134_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q134_Medium_GasStation/Q134_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q167-Easy-TwoSum2/Q167-Easy" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q167_Easy_TwoSum2/Q167-Easy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q167-Easy-TwoSum2/Q167_review_191104.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q167_Easy_TwoSum2/Q167_review_191104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q167-Easy-TwoSum2/Q167_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q167_Easy_TwoSum2/Q167_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q167-Easy-TwoSum2/Q167_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q167_Easy_TwoSum2/Q167_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q189-Easy-RotateArray/Q189-Easy" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q189_Easy_RotateArray/Q189-Easy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q189-Easy-RotateArray/Q189_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q189_Easy_RotateArray/Q189_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q189-Easy-RotateArray/Q189_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q189_Easy_RotateArray/Q189_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q189-Easy-RotateArray/Q189_test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q189_Easy_RotateArray/Q189_test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q217-Easy-ContainsDupicate/Q217-Easy" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q217_Easy_ContainsDupicate/Q217-Easy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q217-Easy-ContainsDupicate/Q217_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q217_Easy_ContainsDupicate/Q217_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q219_Easy_ContainsDuplicateII/Q219_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q219_Easy_ContainsDuplicateII/Q219_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q273_test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q274_Medium_HIndex/Q273_test3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q274-Medium" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q274_Medium_HIndex/Q274-Medium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q274_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q274_Medium_HIndex/Q274_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q274_test1_improve.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q274_Medium_HIndex/Q274_test1_improve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q274-Medium-HIndex/Q274_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q274_Medium_HIndex/Q274_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q275-Medium-hIndex/Q275-Medium" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q275_Medium_hIndex/Q275-Medium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q275-Medium-hIndex/Q275_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q275_Medium_hIndex/Q275_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q914-Easy-XOfAKind/Q914-Easy" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q914_Easy_XOfAKind/Q914-Easy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q914-Easy-XOfAKind/Q914_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q914_Easy_XOfAKind/Q914_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q914-Easy-XOfAKind/Q914_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q914_Easy_XOfAKind/Q914_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q941-Easy-Valid Mountain Array/Q941-Easy" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q941_Easy_ValidMountainArray/Q941-Easy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q941-Easy-Valid Mountain Array/Q941_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q941_Easy_ValidMountainArray/Q941_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q941-Easy-Valid Mountain Array/Q941_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q941_Easy_ValidMountainArray/Q941_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q045-Medium" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q045_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q045_test1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,21 +117,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q045_test1">
-    <configuration name="BitMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BitMap" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HashTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashTable" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q123_test1">
     <configuration name="Q045_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q045_test1" />
       <module name="LeetCode" />
@@ -93,8 +132,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q217_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q217_test2" />
+    <configuration name="Q121_test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q121_test3" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q123_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q123_test1" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q220_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q220_test1" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q123_test1" />
+        <item itemvalue="Application.Q121_test3" />
+        <item itemvalue="Application.Q220_test1" />
         <item itemvalue="Application.Q045_test1" />
         <item itemvalue="Application.Q055_test1" />
-        <item itemvalue="Application.Q217_test2" />
-        <item itemvalue="Application.BitMap" />
-        <item itemvalue="Application.HashTable" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +189,8 @@
       <workItem from="1572921824431" duration="51650000" />
       <workItem from="1573091758431" duration="3702000" />
       <workItem from="1573112855900" duration="668000" />
-      <workItem from="1573963043652" duration="826000" />
+      <workItem from="1573963043652" duration="19872000" />
+      <workItem from="1574036565641" duration="2532000" />
     </task>
     <servers />
   </component>
@@ -155,5 +209,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q121_Easy_BestTimetoBuyandSellStock/Q121_test3.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

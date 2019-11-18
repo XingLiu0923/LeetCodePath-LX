@@ -5,21 +5,29 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/questiontest" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q026-Easy-RemoveDuplicate" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q914-Easy-XOfAKind" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q941-Easy-Valid Mountain Array" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q167-Easy-TwoSum2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q026_Easy_RemoveDuplicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q914_Easy_XOfAKind" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q941_Easy_ValidMountainArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q167_Easy_TwoSum2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q027-Easy-removeElement" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q080-Medium-RemoveDuplicatesfromSortedArrayII" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q189-Easy-RotateArray" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q134-Medium-GasStation" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q274-Medium-HIndex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q275-Medium-hIndex" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Array/Q217-Easy-ContainsDupicate" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q080_Medium_RemoveDuplicatesfromSortedArrayII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q189_Easy_RotateArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q134_Medium_GasStation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q274_Medium_HIndex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q275_Medium_hIndex" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q217_Easy_ContainsDupicate" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DataStructure/HashTable" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q055-Medium-JumpGame" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q045-Hard-JumpGame2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q219_Easy_ContainsDuplicateII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/*Q220_Medium_ContainsDuplicateIII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q121_Easy_BestTimetoBuyandSellStock" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q122_Easy_BestTimetoBuyandSellStockII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q123_Hard_BestTimetoBuyandSellStockIII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q188_Hard_BestTimetoBuyandSellStockIV" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q309_Medium_BestTimetoBuyandSellStockwithCooldown" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q714_Medium_BestTimetoBuyandSellStockwithTransactionFee" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataStructure/Tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
