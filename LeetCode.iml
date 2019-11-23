@@ -28,6 +28,35 @@
       <sourceFolder url="file://$MODULE_DIR$/Array/Q309_Medium_BestTimetoBuyandSellStockwithCooldown" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Array/Q714_Medium_BestTimetoBuyandSellStockwithTransactionFee" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DataStructure/Tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q144_Medium_BinaryTreePreorderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q94_BinaryTreeInorderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q145_Hard_BinaryTreePostorderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q102_Medium_BinaryTreeLevelOrderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q100_Easy_SameTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q101_Easy_SymmetricTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q226_Easy_InvertBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q257_Easy_BinaryTreePaths" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q112_Easy_PathSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q113_Medium_PathSumII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q129_Medium_SumRoottoLeafNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q111_Easy_MinimumDepthofBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q104_Medium_MaximumDepthofBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q110_Easy_BalancedBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q124_ Hard_BinaryTreeMaximumPathSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q250_Medium_CountUnivalueSubtrees" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q366_Medium_FindLeavesofBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q337_Medium_HouseRobberIII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q107_Easy_BinaryTreeLevelOrderTraversalII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q103_Medium_BinaryTreeZigzagLevelOrderTraversal" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q199_Medium_BinaryTreeRightSideView" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q98_Medium_ValidateBinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q235_LowestCommonAncestorofaBinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q236_Medium_LowestCommonAncestorofaBinaryTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataStructure/Graph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q108_Easy_ConvertSortedArraytoBinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q109_Medium_ConvertSortedListtoBinarySearchTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q173_Medium_BinarySearchTreeIterator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q230_Medium_KthSmallestElementinaBST" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
