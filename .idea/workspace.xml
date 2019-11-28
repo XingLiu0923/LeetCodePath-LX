@@ -2,106 +2,99 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce7a3dbc-7e5f-4a8c-ba44-34d892c2cb2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructure/Graph/GraphMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Tree/AVL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Tree/AVLpractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Tree/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Tree/BinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q100_Easy_SameTree/Q100_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q100_Easy_SameTree/Q100_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q100_Easy_SameTree/Q100_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q101_Easy_SymmetricTree/Q101_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q101_Easy_SymmetricTree/Q101_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q102_Medium_BinaryTreeLevelOrderTraversal/Q102_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q102_Medium_BinaryTreeLevelOrderTraversal/Q102_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q103_Medium_BinaryTreeZigzagLevelOrderTraversal/Q103_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q103_Medium_BinaryTreeZigzagLevelOrderTraversal/Q103_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q104_Medium_MaximumDepthofBinaryTree/Q104_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q104_Medium_MaximumDepthofBinaryTree/Q104_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q107_Easy_BinaryTreeLevelOrderTraversalII/Q107_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q107_Easy_BinaryTreeLevelOrderTraversalII/Q107_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q107_Easy_BinaryTreeLevelOrderTraversalII/Q107_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q108_Easy_ConvertSortedArraytoBinarySearchTree/Q108_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q108_Easy_ConvertSortedArraytoBinarySearchTree/Q108_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q109_Medium_ConvertSortedListtoBinarySearchTree/Q109_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q109_Medium_ConvertSortedListtoBinarySearchTree/Q109_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q109_Medium_ConvertSortedListtoBinarySearchTree/Q109_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q109_Medium_ConvertSortedListtoBinarySearchTree/Q109_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q110_Easy_BalancedBinaryTree/Q110_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q110_Easy_BalancedBinaryTree/Q110_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q111_Easy_MinimumDepthofBinaryTree/Q111_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q111_Easy_MinimumDepthofBinaryTree/Q111_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q112_Easy_PathSum/Q112_Easy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q112_Easy_PathSum/Q112_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q113_Medium_PathSumII/Q113_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q113_Medium_PathSumII/Q113_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q113_Medium_PathSumII/Q113_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q124_ Hard_BinaryTreeMaximumPathSum/Q124_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q124_ Hard_BinaryTreeMaximumPathSum/Q124_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q124_ Hard_BinaryTreeMaximumPathSum/Q124_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q129_Medium_SumRoottoLeafNumbers/Q129_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q129_Medium_SumRoottoLeafNumbers/Q129_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q144_Medium_BinaryTreePreorderTraversal/Q144_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q144_Medium_BinaryTreePreorderTraversal/Q144_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q145_Hard_BinaryTreePostorderTraversal/Q145_Hard" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q145_Hard_BinaryTreePostorderTraversal/Q145_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q173_Medium_BinarySearchTreeIterator/BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q173_Medium_BinarySearchTreeIterator/Q173_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q199_Medium_BinaryTreeRightSideView/Q199_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q199_Medium_BinaryTreeRightSideView/Q199_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q226_Easy_InvertBinaryTree/Q226_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q226_Easy_InvertBinaryTree/Q226_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q226_Easy_InvertBinaryTree/Q226_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q230_Medium_KthSmallestElementinaBST/Q230_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q230_Medium_KthSmallestElementinaBST/Q230_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q230_Medium_KthSmallestElementinaBST/Q230_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q235_LowestCommonAncestorofaBinarySearchTree/Q235_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q235_LowestCommonAncestorofaBinarySearchTree/Q235_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q236_Medium_LowestCommonAncestorofaBinaryTree/Q236_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q236_Medium_LowestCommonAncestorofaBinaryTree/Q236_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q236_Medium_LowestCommonAncestorofaBinaryTree/Q236_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q250_Medium_CountUnivalueSubtrees/Q250_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q250_Medium_CountUnivalueSubtrees/Q250_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q257_Easy_BinaryTreePaths/Q257_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q257_Easy_BinaryTreePaths/Q257_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q257_Easy_BinaryTreePaths/Q257_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q337_Medium_HouseRobberIII/Q337_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q337_Medium_HouseRobberIII/Q337_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q337_Medium_HouseRobberIII/Q337_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q366_Medium_FindLeavesofBinaryTree/Q366_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q366_Medium_FindLeavesofBinaryTree/Q366_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q94_BinaryTreeInorderTraversal/Q94_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q94_BinaryTreeInorderTraversal/Q94_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q98_Medium_ValidateBinarySearchTree/Q98_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q98_Medium_ValidateBinarySearchTree/Q98_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q98_Medium_ValidateBinarySearchTree/Q98_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataStructure/Trie/trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q1000_Hard_MinimumCosttoMergeStones/Q1000_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q1000_Hard_MinimumCosttoMergeStones/Q1000_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q174_Hard_DungeonGame/Q174_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q174_Hard_DungeonGame/Q174_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q312_Hard_BurstBalloons/Q312_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q312_Hard_BurstBalloons/Q312_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q375_Medium_GuessNumberHigherorLowerII/Q375_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q375_Medium_GuessNumberHigherorLowerII/Q375_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q375_Medium_GuessNumberHigherorLowerII/Q375_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q741_Hard_CherryPickup/Q741_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q741_Hard_CherryPickup/Q741_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q85_Hard_MaximalRectangle/Q85_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/*Q85_Hard_MaximalRectangle/Q85_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q120_Medium_Triangle/Q120_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q120_Medium_Triangle/Q120_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q139_Medium_WordBreak/Q139_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q139_Medium_WordBreak/Q139_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q139_Medium_WordBreak/Q139_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q221_Medium_MaximalSquare/Q221_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q221_Medium_MaximalSquare/Q221_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q256_Easy_PaintHouse/Q256_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q256_Easy_PaintHouse/Q256_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q265_Hard_PaintHouseII/Q265_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q265_Hard_PaintHouseII/Q265_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q279_Medium_PerfectSquares/Q279_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q279_Medium_PerfectSquares/Q279_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q279_Medium_PerfectSquares/Q279_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q322_Medium_CoinChange/Q322_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q322_Medium_CoinChange/Q322_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q322_Medium_CoinChange/Q322_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q322_Medium_CoinChange/Q322_test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q62_Medium_UniquePaths/Q62_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q62_Medium_UniquePaths/Q62_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q63_Medium_UniquePathsII/Q63_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q63_Medium_UniquePathsII/Q63_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q64_Medium_MinimumPathSum/Q64_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q64_Medium_MinimumPathSum/Q64_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q70_Medium_ClimbingStairs/Q70_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q70_Medium_ClimbingStairs/Q70_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q97_Hard_InterleavingString/Q97_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q97_Hard_InterleavingString/Q97_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week164/Q5271_Easy_访问所有点的最小时间/Q5271_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week164/Q5272_Medium_统计参与通信的服务器/Q5272_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week164/Q5274_Hard_NumberofWaystoStayintheSamePlaceAfterSomeSteps/Q5274_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q14_Easy_LongestCommonPrefix/Q14_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q14_Easy_LongestCommonPrefix/Q14_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q14_Easy_LongestCommonPrefix/Q14_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q208_Medium_ImplementTrie(PrefixTree)/Q208_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q208_Medium_ImplementTrie(PrefixTree)/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q211_Medium_AddandSearchWord-DataStructureDesign/Q211_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q211_Medium_AddandSearchWord-DataStructureDesign/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q212_Hard_WordSearchII/Q212_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q212_Hard_WordSearchII/Q212_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q212_Hard_WordSearchII/Q212_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q28_Easy_ImplementstrStr()/Q28_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q28_Easy_ImplementstrStr()/Q28_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q28_Easy_ImplementstrStr()/Q28_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q28_Easy_ImplementstrStr()/Q28_test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q28_Easy_ImplementstrStr()/Q28_test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q344_Easy_ReverseString/Q344_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q344_Easy_ReverseString/Q344_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q383_Easy_RansomNote/Q383_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q383_Easy_RansomNote/Q383_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q387_Easy_FirstUniqueCharacterinaString/Q387_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q387_Easy_FirstUniqueCharacterinaString/Q387_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q58_Easy_LengthofLastWord/Q58_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q58_Easy_LengthofLastWord/Q58_test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Tree/BinNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Tree/BinNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/BinarySerchPrac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q122_test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q122_test2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort_Improve$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q148_ListSort_Improve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q189-Easy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1_TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q310_MinimumHeightTrees$Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q310_MinimumHeightTrees.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q50_Power.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySerchPrac.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q148_ListSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q148_ListSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q148_ListSort_Improve.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q148_ListSort_Improve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q1_TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q1_Easy_TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q310_MinimumHeightTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q310_MinimumHeightTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Q50_Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q50_Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/Q230_Medium_KthSmallestElementinaBST/Q230_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tree/Q230_Medium_KthSmallestElementinaBST/Q230_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tree/Q230_Medium_KthSmallestElementinaBST/Q230_test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q109_test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q109_test2.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
@@ -135,7 +128,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -160,37 +153,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q109_test2">
-    <configuration name="GraphMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GraphMatrix" />
+  <component name="RunManager" selected="Application.Q387_test1">
+    <configuration name="Q14_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q14_test1" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q107_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q107_test1" />
+    <configuration name="Q14_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q14_test2" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q109_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q109_test2" />
+    <configuration name="Q212_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q212_test2" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q236_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q236_test1" />
+    <configuration name="Q28_test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q28_test4" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q236_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q236_test2" />
+    <configuration name="Q387_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q387_test1" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q109_test2" />
-        <item itemvalue="Application.Q236_test2" />
-        <item itemvalue="Application.GraphMatrix" />
-        <item itemvalue="Application.Q236_test1" />
-        <item itemvalue="Application.Q107_test1" />
+        <item itemvalue="Application.Q387_test1" />
+        <item itemvalue="Application.Q212_test2" />
+        <item itemvalue="Application.Q14_test2" />
+        <item itemvalue="Application.Q14_test1" />
+        <item itemvalue="Application.Q28_test4" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +237,12 @@
       <workItem from="1574352154812" duration="3795000" />
       <workItem from="1574386154479" duration="9505000" />
       <workItem from="1574423269199" duration="8190000" />
-      <workItem from="1574470363032" duration="12344000" />
+      <workItem from="1574470363032" duration="25938000" />
+      <workItem from="1574557414307" duration="16350000" />
+      <workItem from="1574604589006" duration="34855000" />
+      <workItem from="1574820921074" duration="4930000" />
+      <workItem from="1574864500515" duration="6751000" />
+      <workItem from="1574900843477" duration="23071000" />
     </task>
     <servers />
   </component>
@@ -268,34 +266,25 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Array/Q121_Easy_BestTimetoBuyandSellStock/Q121_test3.java</url>
-          <line>15</line>
+          <url>file://$PROJECT_DIR$/String/Q14_Easy_LongestCommonPrefix/Q14_test1.java</url>
+          <line>37</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tree/Q250_Medium_CountUnivalueSubtrees/Q250_test1.java</url>
-          <line>77</line>
+          <url>file://$PROJECT_DIR$/String/Q212_Hard_WordSearchII/Q212_test2.java</url>
+          <line>104</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tree/Q107_Easy_BinaryTreeLevelOrderTraversalII/Q107_test1.java</url>
-          <line>112</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Tree/Q236_Medium_LowestCommonAncestorofaBinaryTree/Q236_test2.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="root.val" language="JAVA" />
+        <watch expression="haystack.indexOf(i)" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LeetCodePath_LX$Q28_test1.ic" NAME="Q28_test1 Coverage Results" MODIFIED="1574821631990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/LeetCodePath_LX$Q250_test1.ic" NAME="Q250_test1 Coverage Results" MODIFIED="1574183266202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

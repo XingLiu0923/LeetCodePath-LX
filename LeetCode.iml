@@ -57,6 +57,39 @@
       <sourceFolder url="file://$MODULE_DIR$/Tree/Q109_Medium_ConvertSortedListtoBinarySearchTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tree/Q173_Medium_BinarySearchTreeIterator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Tree/Q230_Medium_KthSmallestElementinaBST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q70_Medium_ClimbingStairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q62_Medium_UniquePaths" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q63_Medium_UniquePathsII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q279_Medium_PerfectSquares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q120_Medium_Triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q139_Medium_WordBreak" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q375_Medium_GuessNumberHigherorLowerII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week164/Q5271_Easy_访问所有点的最小时间" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week164/Q5272_Medium_统计参与通信的服务器" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week164/Q5274_Hard_NumberofWaystoStayintheSamePlaceAfterSomeSteps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q312_Hard_BurstBalloons" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q1000_Hard_MinimumCosttoMergeStones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q322_Medium_CoinChange" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q256_Easy_PaintHouse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q265_Hard_PaintHouseII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q97_Hard_InterleavingString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q72_Hard_EditDistance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q174_Hard_DungeonGame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q64_Medium_MinimumPathSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q221_Medium_MaximalSquare" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q85_Hard_MaximalRectangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q741_Hard_CherryPickup" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q28_Easy_ImplementstrStr()" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q14_Easy_LongestCommonPrefix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q58_Easy_LengthofLastWord" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataStructure/Trie" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q208_Medium_ImplementTrie(PrefixTree)" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q211_Medium_AddandSearchWord-DataStructureDesign" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q212_Hard_WordSearchII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q387_Easy_FirstUniqueCharacterinaString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q383_Easy_RansomNote" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q344_Easy_ReverseString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q151_Medium_ReverseWordsinaString" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
