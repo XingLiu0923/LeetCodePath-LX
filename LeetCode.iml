@@ -68,7 +68,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week164/Q5272_Medium_统计参与通信的服务器" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week164/Q5274_Hard_NumberofWaystoStayintheSamePlaceAfterSomeSteps" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q312_Hard_BurstBalloons" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/*Q1000_Hard_MinimumCosttoMergeStones" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/**Q1000_Hard_MinimumCosttoMergeStones" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q322_Medium_CoinChange" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q256_Easy_PaintHouse" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/DynamicProgramming/Q265_Hard_PaintHouseII" isTestSource="false" />
@@ -90,6 +90,134 @@
       <sourceFolder url="file://$MODULE_DIR$/String/Q383_Easy_RansomNote" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/String/Q344_Easy_ReverseString" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/String/Q151_Medium_ReverseWordsinaString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q186_Medium_ReverseWordsinaStringII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q345_Easy_ReverseVowelsofaString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q205_Easy_IsomorphicStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q293_Easy_FlipGame" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/*Q294_Medium_FlipGameII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q290_Easy_WordPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q242_Easy_ValidAnagram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q249_Medium_GroupShiftedStrings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/#Q87_Hard_ScrambleString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/String/Q161_Medium_OneEditDistance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/#Q78_Medium_Subsets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Q90_Medium_SubsetsII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Q77_Medium_Combinations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Q40_Medium_CombinationSumII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Q216_Medium_CombinationSumIII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Q377_Medium_CombinationSumIV" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Q254_Medium_FactorCombinations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Q46_Medium_Permutations" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Backtracking/Q47_Medium_PermutationsII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q206_Easy_ReverseLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q141_Easy_LinkedListCycle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q24_Medium_SwapNodesinPairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q328_Medium_OddEvenLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q92_Medium_ReverseLinkedListII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q237_Easy_DeleteNodeinaLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q19_Medium_RemoveNthNodeFromEndofList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q83_Easy_RemoveDuplicatesfromSortedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q203_Easy_RemoveLinkedListElements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q82_Medium_RemoveDuplicatesfromSortedListII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q369_Medium_PlusOneLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q2_Medium_AddTwoNumbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q160_Easy_IntersectionofTwoLinkedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q21_Easy_MergeTwoSortedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q234_Easy_PalindromeLinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q143_Medium_ReorderList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q142_Medium_LinkedListCycleII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q148_Medium_SortList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q25_Hard_ReverseNodesink-Group" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q61_Medium_RotateList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q86_Medium_PartitionList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q23_Hard_MergekSortedLists" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LinkedList/Q147_Medium_InsertionSortList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q278_Easy_FirstBadVersion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q35_Easy_SearchInsertPosition" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q33_Medium_SearchinRotatedSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q81_Medium_SearchinRotatedSortedArrayII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q153_Medium_FindMinimuminRotatedSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q154_Hard_FindMinimuminRotatedSortedArrayII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q162_Medium_FindPeakElement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q374_Easy_GuessNumberHigherorLower" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q34_Medium_FindFirstandLastPositionofElementinSortedArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q349_Easy_IntersectionofTwoArrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q350_Easy_IntersectionofTwoArraysII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q315_Hard_CountofSmallerNumbersAfterSelf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/#Q300_Medium_LongestIncreasingSubsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BinarySearch/Q354_Hard_RussianDollEnvelopes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q155_Easy_MinStack" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q232_Easy_ImplementQueueusingStacks" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q150_Medium_EvaluateReversePolishNotation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q71_Medium_SimplifyPath" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week166/Q166_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week166/Q166_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week166/Q166_3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week166/Q166_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q388_Medium_LongestAbsoluteFilePath" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/#Q394_Medium_DecodeString" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q227_Medium_BasicCalculatorII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q224_Hard_BasicCalculator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q772_Hard_BasicCalculatorIII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/#Q84_Hard_LargestRectangleinHistogram" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q215_Medium_KthLargestElementinanArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q347_Medium_TopKFrequent Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q313_Medium_SuperUglyNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stack&amp;PriorityQueue/Q373_Medium_FindKPairswithSmallestSums" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS&amp;BFS/Q332_Medium_ReconstructItinerary" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS&amp;BFS/Q200_Medium_NumberofIslands" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS&amp;BFS/Q286_Medium_WallsandGates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS&amp;BFS/Q130_Medium_SurroundedRegions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS&amp;BFS/Q127_Medium_WordLadder" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS&amp;BFS/#Q51_Hard_NQueens" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DFS&amp;BFS/Q52_Hard_NQueensII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BitManipulation/#Q136_Easy_SingleNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BitManipulation/*Q318_Medium_MaximumProductofWordLengths" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q243_Easy_ShortestWordDistance" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q244_Medium_ShortestWordDistanceII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q245_Medium_ShortestWordDistanceIII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q229_Medium_MajorityElementII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q11_Medium_ContainerWithMostWater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q42_Hard_TrappingRainWater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q334_Medium_IncreasingTripletSubsequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Tree/Q298_Medium_BinaryTreeLongestConsecutiveSequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q128_Hard_LongestConsecutiveSequence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataStructure/UnionFind" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UnionFind/Q261_Medium_GraphValidTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UnionFind/Q323_Medium_NumberofConnectedComponentsinanUndirectedGraph" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/UnionFind/Q305_Hard_NumberofIslandsII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/#Q164_Hard_MaximumGap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/#Q287_Medium_FindTheDuplicateNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q135_Hard_Candy" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/*Q330_Hard_PatchingArray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/*Q4_Hard_MedianofTwoSortedArrays" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q1137_Hard_N-thTribonacciNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/*Q321_Hard_CreateMaximumNumber" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DataStructure/SegmentTree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week168/Q168_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week168/Q168_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week168/Q168_3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCodeContest/Week168/Q168_4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BBST&amp;SegmentTree/*Q327_Hard_CountofRangeSum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BBST&amp;SegmentTree/Q493_Hard_ReversePairs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BBST&amp;SegmentTree/*Q218_Hard_TheSkylineProblem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BBST&amp;SegmentTree/Q307_Medium_RangeSumQuery-Mutable" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q289_Medium_GameofLife" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q57_Hard_InsertInterval" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q56_Medium_MergeIntervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q252_Easy_MeetingRooms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q253_Medium_MeetingRoomsII" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BBST&amp;SegmentTree/*Q1157_Hard_OnlineMajorityElementInSubarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BBST&amp;SegmentTree/Q699_Hard_FallingSquares" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q352_Hard_DataStreamasDisjointIntervals" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/*Q239_Hard_SlidingWindowMaximum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q295_Hard_FindMedianfromDataStream" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q325_Medium_MaximumSizeSubarraySumEquals k" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q209_Minimum_SizeSubarraySum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q238_Medium_ProductofArrayExceptSelf" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/#Q152_Medium_MaximumProductSubarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q228_Medium_SummaryRanges" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Array/Q163_Medium_MissingRanges" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

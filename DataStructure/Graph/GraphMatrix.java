@@ -11,8 +11,7 @@ public class GraphMatrix {
     }
 
     public class Vertex {
-        int data, inDegree, outDegree;
-        VStatus status;
+        int data, inDegree, outDegree; VStatus status;
         int dTime, fTime;
         int parent;
         int priority;
@@ -99,7 +98,7 @@ public class GraphMatrix {
     }
 
     public int nextNbr(int i, int j) {
-        if (j > -1 && !exist(i, --j));
+        while (j > -1 && !exist(i, --j));
         return j;
     }
 
