@@ -2,325 +2,185 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce7a3dbc-7e5f-4a8c-ba44-34d892c2cb2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Array/#Q152_Medium_MaximumProductSubarray/Q152_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/#Q152_Medium_MaximumProductSubarray/Q152_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/#Q152_Medium_MaximumProductSubarray/Q152_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/#Q164_Hard_MaximumGap/Q164_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/#Q164_Hard_MaximumGap/Q164_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/#Q164_Hard_MaximumGap/Q164_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/#Q287_Medium_FindTheDuplicateNumber/Q287_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/#Q287_Medium_FindTheDuplicateNumber/Q287_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/#Q287_Medium_FindTheDuplicateNumber/Q287_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/*Q239_Hard_SlidingWindowMaximum/Q239_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/*Q239_Hard_SlidingWindowMaximum/Q239_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/*Q321_Hard_CreateMaximumNumber/Q321_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/*Q321_Hard_CreateMaximumNumber/Q321_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/*Q330_Hard_PatchingArray/Q330_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/*Q330_Hard_PatchingArray/Q330_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/*Q4_Hard_MedianofTwoSortedArrays/Q4_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/*Q4_Hard_MedianofTwoSortedArrays/Q4_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q1137_Hard_N-thTribonacciNumber/Q1137_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q11_Medium_ContainerWithMostWater/Q11_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q11_Medium_ContainerWithMostWater/Q11_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q128_Hard_LongestConsecutiveSequence/Q128_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q128_Hard_LongestConsecutiveSequence/Q128_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q128_Hard_LongestConsecutiveSequence/Q128_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q128_Hard_LongestConsecutiveSequence/Q128_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q135_Hard_Candy/Q135_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q135_Hard_Candy/Q135_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q135_Hard_Candy/Q135_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q209_Minimum_SizeSubarraySum/Q209_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q209_Minimum_SizeSubarraySum/Q209_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q228_Medium_SummaryRanges/Q228_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q228_Medium_SummaryRanges/Q228_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q229_Medium_MajorityElementII/Q229_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q229_Medium_MajorityElementII/Q229_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q238_Medium_ProductofArrayExceptSelf/Q238_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q238_Medium_ProductofArrayExceptSelf/Q238_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q243_Easy_ShortestWordDistance/Q243_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q243_Easy_ShortestWordDistance/Q243_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q244_Medium_ShortestWordDistanceII/Q244_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q244_Medium_ShortestWordDistanceII/WordDistance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q245_Medium_ShortestWordDistanceIII/Q245_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q245_Medium_ShortestWordDistanceIII/Q245_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q252_Easy_MeetingRooms/Q252_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q252_Easy_MeetingRooms/Q252_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q253_Medium_MeetingRoomsII/Q253_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q253_Medium_MeetingRoomsII/Q253_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q253_Medium_MeetingRoomsII/Q253_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q253_Medium_MeetingRoomsII/Q253_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q289_Medium_GameofLife/Q289_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q289_Medium_GameofLife/Q289_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q295_Hard_FindMedianfromDataStream/MedianFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q295_Hard_FindMedianfromDataStream/Q295_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q325_Medium_MaximumSizeSubarraySumEquals k/Q325_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q325_Medium_MaximumSizeSubarraySumEquals k/Q325_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q334_Medium_IncreasingTripletSubsequence/Q334_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q334_Medium_IncreasingTripletSubsequence/Q334_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q352_Hard_DataStreamasDisjointIntervals/Q352_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q352_Hard_DataStreamasDisjointIntervals/SummaryRanges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q42_Hard_TrappingRainWater/Q42_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q42_Hard_TrappingRainWater/Q42_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q42_Hard_TrappingRainWater/Q42_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q42_Hard_TrappingRainWater/Q42_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q56_Medium_MergeIntervals/Q56_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q56_Medium_MergeIntervals/Q56_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q57_Hard_InsertInterval/Q57_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Array/Q57_Hard_InsertInterval/Q57_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/*Q1157_Hard_OnlineMajorityElementInSubarray/MajorityChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/*Q1157_Hard_OnlineMajorityElementInSubarray/Q1157_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/*Q218_Hard_TheSkylineProblem/Q218_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/*Q218_Hard_TheSkylineProblem/Q218_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/*Q327_Hard_CountofRangeSum/Q237_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/*Q327_Hard_CountofRangeSum/Q327_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/*Q327_Hard_CountofRangeSum/Q327_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q307_Medium_RangeSumQuery-Mutable/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q307_Medium_RangeSumQuery-Mutable/Q307_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q493_Hard_ReversePairs/Q493_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q493_Hard_ReversePairs/Q493_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q493_Hard_ReversePairs/Q493_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q493_Hard_ReversePairs/Q493_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q699_Hard_FallingSquares/Q699_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q699_Hard_FallingSquares/Q699_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/#Q78_Medium_Subsets/Q78_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/#Q78_Medium_Subsets/Q78_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/#Q78_Medium_Subsets/Q78_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q216_Medium_CombinationSumIII/Q216_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q216_Medium_CombinationSumIII/Q216_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q254_Medium_FactorCombinations/Q254_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q254_Medium_FactorCombinations/Q254_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q254_Medium_FactorCombinations/Q254_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q377_Medium_CombinationSumIV/Q377_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q377_Medium_CombinationSumIV/Q377_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q40_Medium_CombinationSumII/Q40_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q40_Medium_CombinationSumII/Q40_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q46_Medium_Permutations/Q46_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q46_Medium_Permutations/Q46_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q46_Medium_Permutations/Q46_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q47_Medium_PermutationsII/Q47_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q47_Medium_PermutationsII/Q47_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q77_Medium_Combinations/Q77_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q77_Medium_Combinations/Q77_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q90_Medium_SubsetsII/Q90_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Backtracking/Q90_Medium_SubsetsII/Q90_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/#Q300_Medium_LongestIncreasingSubsequence/Q300_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/#Q300_Medium_LongestIncreasingSubsequence/Q300_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/#Q300_Medium_LongestIncreasingSubsequence/Q300_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q153_Medium_FindMinimuminRotatedSortedArray/Q153_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q153_Medium_FindMinimuminRotatedSortedArray/Q153_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q154_Hard_FindMinimuminRotatedSortedArrayII/Q154_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q154_Hard_FindMinimuminRotatedSortedArrayII/Q154_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q162_Medium_FindPeakElement/Q162_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q162_Medium_FindPeakElement/Q162_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q278_Easy_FirstBadVersion/Q278_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q278_Easy_FirstBadVersion/Q278_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q278_Easy_FirstBadVersion/VersionControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q315_Hard_CountofSmallerNumbersAfterSelf/Q315_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q315_Hard_CountofSmallerNumbersAfterSelf/Q315_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q315_Hard_CountofSmallerNumbersAfterSelf/Q315_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q315_Hard_CountofSmallerNumbersAfterSelf/Q315_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q33_Medium_SearchinRotatedSortedArray/Q33_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q33_Medium_SearchinRotatedSortedArray/Q33_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q349_Easy_IntersectionofTwoArrays/Q349_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q349_Easy_IntersectionofTwoArrays/Q349_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q34_Medium_FindFirstandLastPositionofElementinSortedArray/Q34_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q34_Medium_FindFirstandLastPositionofElementinSortedArray/Q34_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q350_Easy_IntersectionofTwoArraysII/Q350_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q350_Easy_IntersectionofTwoArraysII/Q350_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q354_Hard_RussianDollEnvelopes/Q354_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q354_Hard_RussianDollEnvelopes/Q354_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q35_Easy_SearchInsertPosition/Q35_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q35_Easy_SearchInsertPosition/Q35_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q374_Easy_GuessNumberHigherorLower/GuessGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q374_Easy_GuessNumberHigherorLower/Q374_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q374_Easy_GuessNumberHigherorLower/Q374_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q81_Medium_SearchinRotatedSortedArrayII/Q81_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinarySearch/Q81_Medium_SearchinRotatedSortedArrayII/Q81_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/#Q136_Easy_SingleNumber/Q136_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/#Q136_Easy_SingleNumber/Q136_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/*Q318_Medium_MaximumProductofWordLengths/Q318_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BitManipulation/*Q318_Medium_MaximumProductofWordLengths/Q318_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/#Q51_Hard_NQueens/Q51_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/#Q51_Hard_NQueens/Q51_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/#Q51_Hard_NQueens/Q51_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q127_Medium_WordLadder/Q127_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q127_Medium_WordLadder/Q127_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q127_Medium_WordLadder/Q127_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q127_Medium_WordLadder/Q127_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q130_Medium_SurroundedRegions/Q130_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q130_Medium_SurroundedRegions/Q130_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q200_Medium_NumberofIslands/Q200_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q200_Medium_NumberofIslands/Q200_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q286_Medium_WallsandGates/Q286_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q286_Medium_WallsandGates/Q286_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q332_Medium_ReconstructItinerary/Q332_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q332_Medium_ReconstructItinerary/Q332_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q332_Medium_ReconstructItinerary/Q332_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q52_Hard_NQueensII/Q52_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q52_Hard_NQueensII/Q52_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Tree/BIT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Tree/BITRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Tree/SegmentTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/Tree/SplayTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/UnionFind/QuickFindUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/UnionFind/QuickUnionUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataStructure/UnionFind/WeightedQuickUnionUF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week166/Q166_1/Q166_1_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week166/Q166_2/Q166_2_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week166/Q166_3/Q166_3_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week166/Q166_4/Q166_4_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week168/Q168_1/Q168_1_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week168/Q168_2/Q168_2_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week168/Q168_3/Q168_3_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week168/Q168_3/Q168_3_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week168/Q168_4/Q168_4_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q141_Easy_LinkedListCycle/Q141_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q141_Easy_LinkedListCycle/Q141_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q142_Medium_LinkedListCycleII/Q142_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q142_Medium_LinkedListCycleII/Q142_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q143_Medium_ReorderList/Q143_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q143_Medium_ReorderList/Q143_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q147_Medium_InsertionSortList/Q147_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q147_Medium_InsertionSortList/Q147_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q148_Medium_SortList/Q148_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q148_Medium_SortList/Q148_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q148_Medium_SortList/Q148_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q160_Easy_IntersectionofTwoLinkedLists/Q160_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q160_Easy_IntersectionofTwoLinkedLists/Q160_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q19_Medium_RemoveNthNodeFromEndofList/Q19_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q19_Medium_RemoveNthNodeFromEndofList/Q19_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q203_Easy_RemoveLinkedListElements/Q203_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q203_Easy_RemoveLinkedListElements/Q203_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q206_Easy_ReverseLinkedList/Q206_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q206_Easy_ReverseLinkedList/Q206_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q206_Easy_ReverseLinkedList/Q206_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q21_Easy_MergeTwoSortedLists/Q21_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q21_Easy_MergeTwoSortedLists/Q21_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q21_Easy_MergeTwoSortedLists/Q21_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q234_Easy_PalindromeLinkedList/Q234_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q234_Easy_PalindromeLinkedList/Q234_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q234_Easy_PalindromeLinkedList/Q234_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q237_Easy_DeleteNodeinaLinkedList/Q237_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q237_Easy_DeleteNodeinaLinkedList/Q237_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q23_Hard_MergekSortedLists/Q23_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q23_Hard_MergekSortedLists/Q23_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q23_Hard_MergekSortedLists/Q23_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q24_Medium_SwapNodesinPairs/Q24_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q24_Medium_SwapNodesinPairs/Q24_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q25_Hard_ReverseNodesink-Group/Q25_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q25_Hard_ReverseNodesink-Group/Q25_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q2_Medium_AddTwoNumbers/Q2_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q2_Medium_AddTwoNumbers/Q2_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q328_Medium_OddEvenLinkedList/Q328_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q328_Medium_OddEvenLinkedList/Q328_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q369_Medium_PlusOneLinkedList/Q369_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q369_Medium_PlusOneLinkedList/Q369_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q61_Medium_RotateList/Q61_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q61_Medium_RotateList/Q61_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q82_Medium_RemoveDuplicatesfromSortedListII/Q82_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q82_Medium_RemoveDuplicatesfromSortedListII/Q82_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q83_Easy_RemoveDuplicatesfromSortedList/Q83_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q83_Easy_RemoveDuplicatesfromSortedList/Q83_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q86_Medium_PartitionList/Q86_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q86_Medium_PartitionList/Q86_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q92_Medium_ReverseLinkedListII/Q92_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/Q92_Medium_ReverseLinkedListII/Q92_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/#Q394_Medium_DecodeString/Q394_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/#Q394_Medium_DecodeString/Q394_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/#Q394_Medium_DecodeString/Q394_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/#Q84_Hard_LargestRectangleinHistogram/Q84_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/#Q84_Hard_LargestRectangleinHistogram/Q84_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/#Q84_Hard_LargestRectangleinHistogram/Q84_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q150_Medium_EvaluateReversePolishNotation/Q150_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q150_Medium_EvaluateReversePolishNotation/Q150_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q155_Easy_MinStack/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q155_Easy_MinStack/Q155_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q215_Medium_KthLargestElementinanArray/Q215_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q215_Medium_KthLargestElementinanArray/Q215_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q215_Medium_KthLargestElementinanArray/Q215_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q224_Hard_BasicCalculator/Q224_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q224_Hard_BasicCalculator/Q224_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q227_Medium_BasicCalculatorII/Q227_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q227_Medium_BasicCalculatorII/Q227_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q232_Easy_ImplementQueueusingStacks/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q232_Easy_ImplementQueueusingStacks/Q232_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q313_Medium_SuperUglyNumber/Q313_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q313_Medium_SuperUglyNumber/Q313_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q347_Medium_TopKFrequent Elements/Q347_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q347_Medium_TopKFrequent Elements/Q347_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q373_Medium_FindKPairswithSmallestSums/Q373_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q373_Medium_FindKPairswithSmallestSums/Q373_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q388_Medium_LongestAbsoluteFilePath/Q388_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q388_Medium_LongestAbsoluteFilePath/Q388_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q71_Medium_SimplifyPath/Q71_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q71_Medium_SimplifyPath/Q71_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q772_Hard_BasicCalculatorIII/Q772_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Stack&amp;PriorityQueue/Q772_Hard_BasicCalculatorIII/Q772_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/#Q87_Hard_ScrambleString/Q87_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/#Q87_Hard_ScrambleString/Q87_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/#Q87_Hard_ScrambleString/Q87_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/#Q87_Hard_ScrambleString/Q87_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/*Q294_Medium_FlipGameII/Q294_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/*Q294_Medium_FlipGameII/Q294_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/*Q294_Medium_FlipGameII/Q294_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/*Q294_Medium_FlipGameII/Q294_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q151_Medium_ReverseWordsinaString/Q151_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q161_Medium_OneEditDistance/Q161_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q161_Medium_OneEditDistance/Q161_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q186_Medium_ReverseWordsinaStringII/Q186_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q186_Medium_ReverseWordsinaStringII/Q186_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q205_Easy_IsomorphicStrings/Q205_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q205_Easy_IsomorphicStrings/Q205_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q205_Easy_IsomorphicStrings/Q205_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q242_Easy_ValidAnagram/Q242_Easy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q242_Easy_ValidAnagram/Q242_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q249_Medium_GroupShiftedStrings/Q249_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q249_Medium_GroupShiftedStrings/Q249_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q249_Medium_GroupShiftedStrings/Q249_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q249_Medium_GroupShiftedStrings/Q249_test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q249_Medium_GroupShiftedStrings/Q249_test4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q290_Easy_WordPattern/Q290_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q290_Easy_WordPattern/Q290_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q293_Easy_FlipGame/Q293_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q293_Easy_FlipGame/Q293_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q345_Easy_ReverseVowelsofaString/Q345_Easy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/Q345_Easy_ReverseVowelsofaString/Q345_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q298_Medium_BinaryTreeLongestConsecutiveSequence/Q298_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tree/Q298_Medium_BinaryTreeLongestConsecutiveSequence/Q298_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/Q261_Medium_GraphValidTree/Q261_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/Q261_Medium_GraphValidTree/Q261_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/Q261_Medium_GraphValidTree/Q261_test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/Q305_Hard_NumberofIslandsII/Q305_Hard.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/Q305_Hard_NumberofIslandsII/Q305_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/Q323_Medium_NumberofConnectedComponentsinanUndirectedGraph/Q323_Medium.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/Q323_Medium_NumberofConnectedComponentsinanUndirectedGraph/Q323_test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnionFind/Q323_Medium_NumberofConnectedComponentsinanUndirectedGraph/Q323_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/*Q324_Medium_WiggleSortII/Q324_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/*Q324_Medium_WiggleSortII/Q324_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q16_Medium_3SumClosest/Q16_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q172_Hard_EditDistance/Q172_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q17_Medium_LetterCombinationsofaPhoneNumber/Q17_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q18_Medium_4Sum/Q18_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q22_Medium_GenerateParentheses/Q22_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q22_Medium_GenerateParentheses/Q22_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q247_Medium_StrobogrammaticNumberII/Q247_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q248_Hard_StrobogrammaticNumberIII/Q248_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q259_Medium_3SumSmaller/Q259_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q259_Medium_3SumSmaller/Q259_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q39_Medium_CombinationSum/Q39_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q45_Hard_JumpGame2/Q45_test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q48_Medium_RotateImage/Q48_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q49_Medium_GroupAnagrams/Q49_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q54_Medium_SpiralMatrix/Q54_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q59_Medium_SpiralMatrixII/Q59_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q60_Medium_PermutationSequence/Q60_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q65_Hard_ValidNumber/Q65_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Q68_Hard_TextJustification/Q68_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BBST&amp;SegmentTree/Q308_Hard_RangeSumQuery2D-Mutable/NumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Q267_Medium_PalindromePermutationII/Q267_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Q282_Hard_ExpressionAddOperators/Q282_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Q291_Hard_WordPatternII/Q291_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Q301_Hard_RemoveInvalidParentheses/Q301_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Q306_Medium_AdditiveNumber/Q306_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Q320_Medium_GeneralizedAbbreviation/Q320_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Q37_Hard_SudokuSolver/Q37_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backtracking/Q89_Medium_GrayCode/Q89_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/Q31_Medium_NextPermutation/Q31_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/Q32_ Hard_LongestValidParentheses/Q32_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/Q36_Medium_ValidSudoku/Q36_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/Q38_Easy_CountandSay/Q38_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BinarySearch/Q44_Hard_WildcardMatching/Q44_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Q137_Medium_SingleNumberII/Q137_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Q137_Medium_SingleNumberII/Q137_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BitManipulation/Q201_Medium_BitwiseANDofNumbersRange/Q201_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q133_Medium_CloneGraph/Q133_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q207_Medium_CourseSchedule/Q207_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q210_Medium_CourseScheduleII/Q210_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q269_Hard_AlienDictionary/Q269_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q302_Hard_SmallestRectangleEnclosingBlackPixels/Q302_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q317_Hard_ShortestDistancefromAllBuildings/Q317_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q329_Hard_LongestIncreasingPathinaMatrix/Q329_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q74_Medium_Searcha2DMatrix/Q74_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q79_Medium_WordSearch/Q79_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q93_Medium_RestoreIPAddresses/Q93_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DFS&amp;BFS/Q93_Medium_RestoreIPAddresses/Q93_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/Q146_Medium_LRUCache/LRUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/Q146_Medium_LRUCache/LRUCache1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Design/Q460_Hard_LFUCache/LFUCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q115_Hard_DistinctSubsequences/Q115_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q131_Medium_PalindromePartitioning/Q131_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q132_Hard_PalindromePartitioningII/Q132_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q140_Hard_WordBreakII/Q140_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q213_Medium_HouseRobberII/Q213_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q214_Hard_ShortestPalindrome/Q214_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q214_Hard_ShortestPalindrome/Q214_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q214_Hard_ShortestPalindrome/Q214_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q241_Medium_DifferentWaystoAddParentheses/Q241_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q246_Easy_StrobogrammaticNumber/Q246_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q264_Medium_UglyNumberII/Q264_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q304_Medium_RangeSumQuery2D-Immutable/NumMatrix1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q516_Medium_LongestPalindromicSubsequence/Q516_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q516_Medium_LongestPalindromicSubsequence/Q516_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q5_Medium_LongestPalindromicSubstring/Q5_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q5_Medium_LongestPalindromicSubstring/Q5_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q5_Medium_LongestPalindromicSubstring/Q5_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q91_Medium_DecodeWays/Q91_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q95_Medium_UniqueBinarySearchTreesII/Q95_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/Q96_Medium_UniqueBinarySearchTrees/Q96_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/*Q630_Hard_CourseScheduleIII/Q630_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Q435_Medium_Non-overlappingIntervals/Q435_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Greedy/Q452_Medium_MinimumNumberofArrowstoBurstBalloons/Q452_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week170/*Q170_4/Q170_4_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week170/*Q170_4/Q170_4_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week170/Q170_1/Q170_1_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week170/Q170_2/Q170_2_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week170/Q170_3/Q170_3_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week171/Q171_1/Q171_1_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week171/Q171_2/Q171_2_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week171/Q171_3/Q171_3_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week171/Q171_4/Q171_4_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week172/Q172_1/Q172_1_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week172/Q172_2/Q172_2_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week172/Q172_3/Q172_3_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week172/Q172_4/Q172_4_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week172/Q172_4/Q172_4_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week172/Q172_4/Q172_4_test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week173/Week173_1/Q173_1_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week173/Week173_2/Q173_2_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week173/Week173_3/Q173_3_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week173/Week173_4/Q173_4_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week174/Week174_1/Q174_1_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week174/Week174_2/Q174_2_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week174/Week174_3/Q174_3_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Week174/Week174_4/Q174_4_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Year2019/Y2019_1/Y2019_1_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCodeContest/Year2019/Y2019_6/Y2019_6_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Q138_Medium_CopyListwithRandomPointer/Q138_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/Q138_Medium_CopyListwithRandomPointer/Q138_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/*Q7_Easy_ReverseInteger/Q7_Easy.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q149_Hard_MaxPointsonaLine/Q149_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q165_Medium_CompareVersionNumbers/Q165_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q165_Medium_CompareVersionNumbers/Q165_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q223_Medium_RectangleArea/Q223_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q233_Hard_NumberofDigitOne/Q233_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q233_Hard_NumberofDigitOne/Q233_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q296_Hard_BestMeetingPoint/Q296_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q311_Medium_SparseMatrixMultiplication/Q311_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q319_Medium_BulbSwitcher/Q319_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q43_Medium_MultiplyStrings/Q43_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q43_Medium_MultiplyStrings/Q43_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q50_Medium_Pow(x, n)/Q50_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q8_Medium_StringtoInteger(atoi)/Q8_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/Q8_Medium_StringtoInteger(atoi)/Q8_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/MonotonicsStack/*Q496_Easy_NextGreaterElementI/Q496_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/MonotonicsStack/Q503_Medium_NextGreaterElementII/Q503_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/MonotonicsStack/Q739_Medium_DailyTemperatures/Q739_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Instruction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q159_Medium_LongestSubstringwithAtMostTwoDistinctCharacters/Q159_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q159_Medium_LongestSubstringwithAtMostTwoDistinctCharacters/Q159_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q3_Medium_LongestSubstringWithoutRepeatingCharacters/Q3_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q3_Medium_LongestSubstringWithoutRepeatingCharacters/Q3_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q3_Medium_LongestSubstringWithoutRepeatingCharacters/Q3_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q438_Medium_FindAllAnagramsinaString/Q438_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q438_Medium_FindAllAnagramsinaString/Q438_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q567_Medium_PermutationinString/Q567_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q567_Medium_PermutationinString/Q567_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q727_Hard_MinimumWindowSubsequence/Q727_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpecialSubject/SlideWindow/Q727_Hard_MinimumWindowSubsequence/Q727_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q10_Hard_RegularExpressionMatching/Q10_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q10_Hard_RegularExpressionMatching/Q10_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q12_Medium_IntegertoRoman/Q12_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q12_Medium_IntegertoRoman/Q12_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q15_3Sum/Q15_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q166_Medium_FractiontoRecurringDecimal/Q166_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q179_Medium_LargestNumber/Q179_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q288_Medium_UniqueWordAbbreviation/ValidWordAbbr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q556_Medium_NextGreaterElementIII/Q556_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q6_Medium_ZigZagConversion/Q6_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q6_Medium_ZigZagConversion/Q6_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q76_Hard_MinimumWindowSubstring/Q76_Hard.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q76_Hard_MinimumWindowSubstring/Q76_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/Q76_Hard_MinimumWindowSubstring/Q76_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q105_Medium_ConstructBinaryTreefromPreorderandInorderTraversal/Q105_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q106_Medium_ConstructBinaryTreefromInorderandPostorderTraversal/Q106_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q114_Medium_FlattenBinaryTreetoLinkedList/Q114_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q114_Medium_FlattenBinaryTreetoLinkedList/Q114_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q116_Medium_PopulatingNextRightPointersinEachNode/Q116_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q117_Medium_PopulatingNextRightPointersinEachNodeII/Q117_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q126_Hard_WordLadderII/Q126_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q145_Hard_BinaryTreePostorderTraversal/Q145_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q270_Easy_ClosestBinarySearchTreeValue/Q270_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q272_Hard_ClosestBinarySearchTreeValueII/Q272_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q285_Medium_InorderSuccessorinBST/Q285_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q297_Hard_SerializeandDeserializeBinaryTree/Codec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q314_Medium_BinaryTreeVerticalOrderTraversal/Q314_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q94_BinaryTreeInorderTraversal/Q94_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q98_Medium_ValidateBinarySearchTree/Q98_test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Q99_Hard_RecoverBinarySearchTree/Q99_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnionFind/Q399_Medium_EvaluateDivision/Q399_Medium.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnionFind/Q399_Medium_EvaluateDivision/Q399_test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnionFind/Q399_Medium_EvaluateDivision/Q399_test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/questiontest/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Q148_ListSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Q148_ListSort_Improve.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Q1_Easy_TwoSum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Q310_MinimumHeightTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Array/Q50_Power.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructure/Graph/GraphMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Graph/GraphMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgramming/*Q1000_Hard_MinimumCosttoMergeStones/Q1000_Hard.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgramming/*Q1000_Hard_MinimumCosttoMergeStones/Q1000_test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DynamicProgramming/*Q174_Hard_DungeonGame/Q174_Hard.md" beforeDir="false" afterPath="$PROJECT_DIR$/DynamicProgramming/*Q174_Hard_DungeonGame/Q174_Hard.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q045-Hard-JumpGame2/Q045-Hard.md" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q45_Hard_JumpGame2/Q045-Hard.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q045-Hard-JumpGame2/Q045_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q45_Hard_JumpGame2/Q045_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q045-Hard-JumpGame2/Q045_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q45_Hard_JumpGame2/Q045_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q055-Medium-JumpGame/Q055-Medium" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q55_Medium_JumpGame/Q055-Medium" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q055-Medium-JumpGame/Q055_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q55_Medium_JumpGame/Q055_test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q055-Medium-JumpGame/Q055_test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q55_Medium_JumpGame/Q055_test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q163_Medium_MissingRanges/Q163_Medium.md" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q163_Medium_MissingRanges/Q163_Medium.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/Q163_Medium_MissingRanges/Q163_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/Q163_Medium_MissingRanges/Q163_test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/Q151_Medium_ReverseWordsinaString/Q151_test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/Q151_Medium_ReverseWordsinaString/Q151_test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/GraphMatrix$EType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/GraphMatrix$EType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/GraphMatrix$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/GraphMatrix$Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/GraphMatrix$Vertex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/GraphMatrix$Vertex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/GraphMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/GraphMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MainClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1000_Hard.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1000_Hard.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q1000_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q1000_test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q174_Hard.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q174_Hard.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q387_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q387_test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Trie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/questiontest/MainClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/questiontest/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Q209_test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Q209_test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/scr1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/scr1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scr1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/scr1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -365,7 +225,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553705842222" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCodeContest/Week168" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCodeContest/Week174" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -379,7 +239,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/BBST&amp;SegmentTree/Q493_Hard_ReversePairs/Q493_test2.java" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/DynamicProgramming/Q5_Medium_LongestPalindromicSubstring/Q5_test2.java" />
   </component>
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -388,47 +248,54 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/LeetCodeContest/Week168" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BitManipulation" />
+      <recent name="$PROJECT_DIR$/DynamicProgramming" />
+      <recent name="$PROJECT_DIR$/Array" />
+      <recent name="$PROJECT_DIR$/SpecialSubject/SlideWindow" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Array" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCodeContest/Week174" />
+      <recent name="$PROJECT_DIR$/LeetCodeContest/Week172" />
+      <recent name="$PROJECT_DIR$/LeetCodeContest/Week171" />
+      <recent name="$PROJECT_DIR$/LeetCodeContest/Week170" />
+      <recent name="$PROJECT_DIR$/LeetCodeContest/Week170/Q170_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q209_test1">
-    <configuration name="MedianFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MedianFinder" />
+  <component name="RunManager" selected="Application.Q174_4_test1">
+    <configuration name="NumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumMatrix" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q209_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q209_test1" />
+    <configuration name="Q174_1_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q174_1_test1" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q253_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q253_test1" />
+    <configuration name="Q174_2_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q174_2_test2" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q253_test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q253_test2" />
+    <configuration name="Q174_4_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q174_4_test1" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q699_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q699_test1" />
+    <configuration name="Q317_test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q317_test1" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -436,11 +303,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q209_test1" />
-        <item itemvalue="Application.MedianFinder" />
-        <item itemvalue="Application.Q699_test1" />
-        <item itemvalue="Application.Q253_test2" />
-        <item itemvalue="Application.Q253_test1" />
+        <item itemvalue="Application.Q174_4_test1" />
+        <item itemvalue="Application.Q174_1_test1" />
+        <item itemvalue="Application.Q174_2_test2" />
+        <item itemvalue="Application.Q317_test1" />
+        <item itemvalue="Application.NumMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +411,43 @@
       <workItem from="1577846174003" duration="290000" />
       <workItem from="1577864831463" duration="10640000" />
       <workItem from="1577887882182" duration="63000" />
-      <workItem from="1577948001834" duration="7258000" />
+      <workItem from="1577948001834" duration="9328000" />
+      <workItem from="1578043718829" duration="38000" />
+      <workItem from="1578099238667" duration="25678000" />
+      <workItem from="1578191271769" duration="15497000" />
+      <workItem from="1578273426276" duration="6467000" />
+      <workItem from="1578282916078" duration="56664000" />
+      <workItem from="1578618032501" duration="358000" />
+      <workItem from="1578631384530" duration="7378000" />
+      <workItem from="1578708811654" duration="12922000" />
+      <workItem from="1578790410082" duration="1999000" />
+      <workItem from="1578796075674" duration="9653000" />
+      <workItem from="1578873705882" duration="6258000" />
+      <workItem from="1578926670646" duration="11762000" />
+      <workItem from="1579052249268" duration="16007000" />
+      <workItem from="1579154137312" duration="2771000" />
+      <workItem from="1579226320077" duration="8355000" />
+      <workItem from="1579307095422" duration="14373000" />
+      <workItem from="1579400369173" duration="7225000" />
+      <workItem from="1579418479403" duration="6396000" />
+      <workItem from="1579507947951" duration="23074000" />
+      <workItem from="1579617319583" duration="4435000" />
+      <workItem from="1579702320255" duration="4006000" />
+      <workItem from="1579774992164" duration="13690000" />
+      <workItem from="1580031447458" duration="22000" />
+      <workItem from="1580031512978" duration="6862000" />
+      <workItem from="1580115420683" duration="7674000" />
+      <workItem from="1580172089523" duration="650000" />
+      <workItem from="1580197683850" duration="2723000" />
+      <workItem from="1580201078053" duration="104000" />
+      <workItem from="1580201360471" duration="3434000" />
+      <workItem from="1580218848371" duration="5478000" />
+      <workItem from="1580275963431" duration="12893000" />
+      <workItem from="1580373348054" duration="14584000" />
+      <workItem from="1580477932602" duration="2391000" />
+      <workItem from="1580559735480" duration="6985000" />
+      <workItem from="1580573896067" duration="2242000" />
+      <workItem from="1580605142441" duration="8531000" />
     </task>
     <servers />
   </component>
@@ -565,12 +468,20 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="0" width="1120" height="783" key="#Project_Structure" timestamp="1577782185126">
+    <state x="372" y="180" key="#Customize_Data_Views" timestamp="1579531643355">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="0" y="0" key="#Project_Structure/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577364496779" />
+    <state x="372" y="180" key="#Customize_Data_Views/0.0.1440.900@0.0.1440.900" timestamp="1579531643355" />
+    <state x="0" y="0" width="1120" height="783" key="#Project_Structure" timestamp="1580610568801">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="#Project_Structure/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1578236379741" />
     <state x="0" y="0" key="#Project_Structure/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1576563303111" />
-    <state x="0" y="0" width="1120" height="783" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1577782185126" />
+    <state x="0" y="0" width="1120" height="783" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1580610568801" />
+    <state x="558" y="313" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1579531667098">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="558" y="313" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1440.900@0.0.1440.900" timestamp="1579531667098" />
     <state x="432" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575245832811">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -588,117 +499,135 @@
     </state>
     <state x="614" y="405" width="691" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1575707840202" />
     <state x="461" y="338" width="519" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1577084765337" />
+    <state x="461" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579230764232">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="461" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1579230764232" />
     <state x="611" y="246" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576510473348">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="611" y="246" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576510473348" />
     <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1575604602521" />
-    <state x="-957" y="655" key="#xdebugger.evaluate" timestamp="1577201208792">
-      <screen x="-1440" y="492" width="1440" height="900" />
+    <state x="483" y="163" key="#xdebugger.evaluate" timestamp="1579530783219">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-957" y="655" key="#xdebugger.evaluate/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201208792" />
-    <state x="133" y="120" width="1654" height="840" key="DiffContextDialog" timestamp="1577878459112">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="483" y="163" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1579530783219" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1578219829716">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="133" y="120" width="1654" height="840" key="DiffContextDialog/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577878459112" />
-    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1577527965441" />
-    <state width="1878" height="325" key="GridCell.Tab.0.bottom" timestamp="1577949372708">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1578219829716" />
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom" timestamp="1580663084300">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="293" key="GridCell.Tab.0.bottom/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201514190" />
-    <state width="1878" height="325" key="GridCell.Tab.0.bottom/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577949372708" />
-    <state width="853" height="325" key="GridCell.Tab.0.bottom/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1577887847775" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577765601538" />
+    <state width="1878" height="231" key="GridCell.Tab.0.bottom/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579366484725" />
+    <state width="1878" height="262" key="GridCell.Tab.0.bottom/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1578143735044" />
+    <state width="1398" height="264" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580663084300" />
     <state width="1878" height="251" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577751350906" />
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575117589601" />
-    <state width="1878" height="325" key="GridCell.Tab.0.center" timestamp="1577949372706">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="202" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579409767285" />
+    <state width="1398" height="264" key="GridCell.Tab.0.center" timestamp="1580663084298">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="293" key="GridCell.Tab.0.center/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201514185" />
-    <state width="1878" height="325" key="GridCell.Tab.0.center/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577949372706" />
-    <state width="853" height="325" key="GridCell.Tab.0.center/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1577887847773" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1577765601533" />
+    <state width="1878" height="231" key="GridCell.Tab.0.center/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579366484724" />
+    <state width="1878" height="262" key="GridCell.Tab.0.center/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1578143735042" />
+    <state width="1398" height="264" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580663084298" />
     <state width="1878" height="251" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577751350904" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1575117589600" />
-    <state width="1878" height="325" key="GridCell.Tab.0.left" timestamp="1577949372704">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="202" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1579409767284" />
+    <state width="1398" height="264" key="GridCell.Tab.0.left" timestamp="1580663084297">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="293" key="GridCell.Tab.0.left/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201514181" />
-    <state width="1878" height="325" key="GridCell.Tab.0.left/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577949372704" />
-    <state width="853" height="325" key="GridCell.Tab.0.left/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1577887847771" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1577765601532" />
+    <state width="1878" height="231" key="GridCell.Tab.0.left/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579366484723" />
+    <state width="1878" height="262" key="GridCell.Tab.0.left/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1578143735041" />
+    <state width="1398" height="264" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580663084297" />
     <state width="1878" height="251" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577751350902" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1575117589599" />
-    <state width="1878" height="325" key="GridCell.Tab.0.right" timestamp="1577949372707">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="202" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1579409767283" />
+    <state width="1398" height="264" key="GridCell.Tab.0.right" timestamp="1580663084299">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="293" key="GridCell.Tab.0.right/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201514189" />
-    <state width="1878" height="325" key="GridCell.Tab.0.right/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577949372707" />
-    <state width="853" height="325" key="GridCell.Tab.0.right/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1577887847774" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577765601535" />
+    <state width="1878" height="231" key="GridCell.Tab.0.right/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579366484725" />
+    <state width="1878" height="262" key="GridCell.Tab.0.right/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1578143735043" />
+    <state width="1398" height="264" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580663084299" />
     <state width="1878" height="251" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577751350905" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1575117589932" />
-    <state width="1878" height="325" key="GridCell.Tab.1.bottom" timestamp="1577949372909">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="202" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1579409767284" />
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom" timestamp="1580663084305">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="293" key="GridCell.Tab.1.bottom/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201514435" />
-    <state width="1878" height="325" key="GridCell.Tab.1.bottom/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577949372909" />
-    <state width="853" height="325" key="GridCell.Tab.1.bottom/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1577887847780" />
-    <state width="1398" height="251" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1577765601901" />
+    <state width="1878" height="252" key="GridCell.Tab.1.bottom/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579366484717" />
+    <state width="1878" height="262" key="GridCell.Tab.1.bottom/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1578143735442" />
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580663084305" />
     <state width="1878" height="251" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1577751351116" />
-    <state width="1398" height="212" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1575117589603" />
-    <state width="1878" height="325" key="GridCell.Tab.1.center" timestamp="1577949372907">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="202" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1579409767495" />
+    <state width="1398" height="264" key="GridCell.Tab.1.center" timestamp="1580663084303">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="293" key="GridCell.Tab.1.center/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201514429" />
-    <state width="1878" height="325" key="GridCell.Tab.1.center/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577949372907" />
-    <state width="853" height="325" key="GridCell.Tab.1.center/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1577887847778" />
-    <state width="1398" height="251" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1577765601897" />
+    <state width="1878" height="252" key="GridCell.Tab.1.center/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579366484713" />
+    <state width="1878" height="262" key="GridCell.Tab.1.center/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1578143735440" />
+    <state width="1398" height="264" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1580663084303" />
     <state width="1878" height="251" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1577751351114" />
-    <state width="1398" height="212" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1575117589602" />
-    <state width="1878" height="325" key="GridCell.Tab.1.left" timestamp="1577949372906">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="202" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1579409767493" />
+    <state width="1398" height="264" key="GridCell.Tab.1.left" timestamp="1580663084302">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="293" key="GridCell.Tab.1.left/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201514426" />
-    <state width="1878" height="325" key="GridCell.Tab.1.left/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577949372906" />
-    <state width="853" height="325" key="GridCell.Tab.1.left/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1577887847776" />
-    <state width="1398" height="251" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1577765601897" />
+    <state width="1878" height="252" key="GridCell.Tab.1.left/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579366484710" />
+    <state width="1878" height="262" key="GridCell.Tab.1.left/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1578143735439" />
+    <state width="1398" height="264" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1580663084302" />
     <state width="1878" height="251" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1577751351113" />
-    <state width="1398" height="212" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1575117589602" />
-    <state width="1878" height="325" key="GridCell.Tab.1.right" timestamp="1577949372908">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1398" height="202" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1579409767493" />
+    <state width="1398" height="264" key="GridCell.Tab.1.right" timestamp="1580663084304">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="293" key="GridCell.Tab.1.right/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577201514433" />
-    <state width="1878" height="325" key="GridCell.Tab.1.right/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577949372908" />
-    <state width="853" height="325" key="GridCell.Tab.1.right/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1577887847779" />
-    <state width="1398" height="251" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1577765601899" />
+    <state width="1878" height="252" key="GridCell.Tab.1.right/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579366484716" />
+    <state width="1878" height="262" key="GridCell.Tab.1.right/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1578143735441" />
+    <state width="1398" height="264" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1580663084304" />
     <state width="1878" height="251" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1577751351115" />
-    <state width="1398" height="212" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1575117589603" />
+    <state width="1398" height="202" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1579409767494" />
     <state x="-47" y="82" key="SettingsEditor" timestamp="1575245810581">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-47" y="82" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1575245810581" />
-    <state x="499" y="360" key="com.intellij.ide.util.TipDialog" timestamp="1577948003752">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="374" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1580735966227">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="-1066" y="792" key="com.intellij.ide.util.TipDialog/-1440.492.1440.900/0.0.1920.1080@-1440.492.1440.900" timestamp="1577196978505" />
-    <state x="499" y="360" key="com.intellij.ide.util.TipDialog/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577948003752" />
+    <state x="499" y="360" key="com.intellij.ide.util.TipDialog/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1579307122867" />
     <state x="499" y="360" key="com.intellij.ide.util.TipDialog/-1440.515.1440.877/0.0.1920.1080@0.0.1920.1080" timestamp="1576559029966" />
-    <state x="374" y="300" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1577846178033" />
+    <state x="374" y="315" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1580735966227" />
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576900850157">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1576900850157" />
+    <state x="260" y="194" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579142800401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="260" y="194" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1579142800401" />
     <state x="424" y="230" width="845" height="538" key="find.popup" timestamp="1576981355462">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="565" y="276" width="790" height="528" key="find.popup/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1576749777632" />
     <state x="424" y="230" width="845" height="538" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1576981355462" />
-    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup" timestamp="1577715748915">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="97" y="55" key="new project wizard" timestamp="1578102493201">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1577715748915" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1575519479452" />
+    <state x="97" y="55" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1578102493201" />
+    <state x="469" y="213" key="run.anything.popup" timestamp="1578845394445">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="625" y="255" key="run.anything.popup/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1578311022707" />
+    <state x="469" y="213" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1578845394445" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1580373982927">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="513" y="235" width="894" height="812" key="search.everywhere.popup/-1440.492.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1578310334012" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1580373982927" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -898,18 +827,347 @@
           <line>19</line>
           <option name="timeStamp" value="116" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/*Q324_Medium_WiggleSortII/Q324_test1.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Math/Q165_Medium_CompareVersionNumbers/Q165_test1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Math/Q8_Medium_StringtoInteger(atoi)/Q8_test1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Math/Q43_Medium_MultiplyStrings/Q43_test1.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/UnionFind/Q399_Medium_EvaluateDivision/Q399_test1.java</url>
+          <line>98</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/UnionFind/Q399_Medium_EvaluateDivision/Q399_test2.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Week170/Q170_2/Q170_2_test1.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/Q5_Medium_LongestPalindromicSubstring/Q5_test2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/Q214_Hard_ShortestPalindrome/Q214_test1.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/Q214_Hard_ShortestPalindrome/Q214_test2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/Q214_Hard_ShortestPalindrome/Q214_test2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpecialSubject/SlideWindow/Q3_Medium_LongestSubstringWithoutRepeatingCharacters/Q3_test1.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Q76_Hard_MinimumWindowSubstring/Q76_test1.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpecialSubject/SlideWindow/Q438_Medium_FindAllAnagramsinaString/Q438_test1.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpecialSubject/SlideWindow/Q727_Hard_MinimumWindowSubsequence/Q727_test1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Q6_Medium_ZigZagConversion/Q6_test1.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Q10_Hard_RegularExpressionMatching/Q10_test1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Q10_Hard_RegularExpressionMatching/Q10_test1.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Q10_Hard_RegularExpressionMatching/Q10_test1.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Q12_Medium_IntegertoRoman/Q12_test1.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q16_Medium_3SumClosest/Q16_test1.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q17_Medium_LetterCombinationsofaPhoneNumber/Q17_test1.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q22_Medium_GenerateParentheses/Q22_test2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q22_Medium_GenerateParentheses/Q22_test1.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinarySearch/Q31_Medium_NextPermutation/Q31_test1.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinarySearch/Q32_ Hard_LongestValidParentheses/Q32_test1.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinarySearch/Q38_Easy_CountandSay/Q38_test1.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinarySearch/Q44_Hard_WildcardMatching/Q44_test1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q60_Medium_PermutationSequence/Q60_test1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q65_Hard_ValidNumber/Q65_test1.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q68_Hard_TextJustification/Q68_test1.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Week171/Q171_2/Q171_2_test1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DynamicProgramming/Q131_Medium_PalindromePartitioning/Q131_test1.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="179" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DFS&amp;BFS/Q133_Medium_CloneGraph/Q133_test1.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="180" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BitManipulation/Q137_Medium_SingleNumberII/Q137_test1.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BitManipulation/Q137_Medium_SingleNumberII/Q137_test1.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LinkedList/Q138_Medium_CopyListwithRandomPointer/Q138_test1.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LinkedList/Q138_Medium_CopyListwithRandomPointer/Q138_test2.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="187" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Design/Q146_Medium_LRUCache/LRUCache1.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Math/Q149_Hard_MaxPointsonaLine/Q149_test1.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Year2019/Y2019_6/Y2019_6_test1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Q166_Medium_FractiontoRecurringDecimal/Q166_test1.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BitManipulation/Q201_Medium_BitwiseANDofNumbersRange/Q201_test1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DFS&amp;BFS/Q207_Medium_CourseSchedule/Q207_test1.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Week172/Q172_4/Q172_4_test1.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/scr1.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Math/Q233_Hard_NumberofDigitOne/Q233_test1.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Math/Q233_Hard_NumberofDigitOne/Q233_test2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BinarySearch/Q240_Medium_Searcha2DMatrixII/Q240_test1.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q247_Medium_StrobogrammaticNumberII/Q247_test1.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q248_Hard_StrobogrammaticNumberIII/Q248_test1.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q248_Hard_StrobogrammaticNumberIII/Q248_test1.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Week173/Week173_3/Q173_3_test1.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpecialSubject/MonotonicsStack/Q739_Medium_DailyTemperatures/Q739_test1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/String/Q556_Medium_NextGreaterElementIII/Q556_test1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Array/Q259_Medium_3SumSmaller/Q259_test2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DFS&amp;BFS/Q269_Hard_AlienDictionary/Q269_test1.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="patternP == 0 &amp;&amp; i == 2" language="JAVA" />
+          <url>file://$PROJECT_DIR$/Backtracking/Q291_Hard_WordPatternII/Q291_test1.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Backtracking/Q306_Medium_AdditiveNumber/Q306_test1.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BBST&amp;SegmentTree/Q308_Hard_RangeSumQuery2D-Mutable/NumMatrix.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DFS&amp;BFS/Q317_Hard_ShortestDistancefromAllBuildings/Q317_test1.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DFS&amp;BFS/Q317_Hard_ShortestDistancefromAllBuildings/Q317_test1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Week174/Week174_2/Q174_2_test2.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Week174/Week174_1/Q174_1_test1.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 10" language="JAVA" />
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Week174/Week174_4/Q174_4_test1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LeetCodeContest/Week174/Week174_4/Q174_4_test1.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="max + positions[i][1]" language="JAVA" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LeetCodePath_LX$Q28_test1.ic" NAME="Q28_test1 Coverage Results" MODIFIED="1574821631990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LeetCodePath_LX$Q137_test1.ic" NAME="Q137_test1 Coverage Results" MODIFIED="1579105197272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/LeetCodePath_LX$Q250_test1.ic" NAME="Q250_test1 Coverage Results" MODIFIED="1574183266202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/LeetCodePath_LX$Q321_test1.ic" NAME="Q321_test1 Coverage Results" MODIFIED="1577099087454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/LeetCodePath_LX$Q399_test1.ic" NAME="Q399_test1 Coverage Results" MODIFIED="1578144132337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/LeetCodePath_LX$Q394_test3.ic" NAME="Q394_test3 Coverage Results" MODIFIED="1575871826348" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
